@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 '''
-    Module for Babel i18n..
+    Module for Babel i18n.
 '''
 
 from flask import Flask, render_template
