@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 '''
-    Use Babel to get user locale.
+    Use Babel to get user locale..
 '''
 
 from flask_babel import Babel
